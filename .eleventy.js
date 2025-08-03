@@ -4,10 +4,6 @@ moment.locale('en');
 
 module.exports = async function (eleventyConfig) {
 
-	const { HtmlBasePlugin } = await import("@11ty/eleventy");
-
-	eleventyConfig.addPlugin(HtmlBasePlugin);
-
   eleventyConfig.addFilter('dateIso', date => {
     return moment(date).toISOString();
   });

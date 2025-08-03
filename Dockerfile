@@ -9,3 +9,5 @@ VOLUME /app
 ENTRYPOINT ["/usr/local/bin/npm", "run", "serve" ]
 
 EXPOSE 8080
+
+USER 1000:1000
