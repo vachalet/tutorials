@@ -1,0 +1,180 @@
+---
+layout: post-layout.njk
+title: "Goblins: Runde 3"
+date: 2024-03-31
+tags: ['post','tutorial','goblins','turn-34']
+---
+# Runde 3
+## Die Auswertung
+Die dritte Auswertung ist da.
+Diesmal gibt es hier kaum interessante Infos.
+
+Erwähnenswert ist, dass jetzt [Herbst](https://wiki.eressea.de/index.php/Welt#Die_Zeitrechnung_Eresseas) ist. Wenn wir zur See fahren würden, wäre die Chance auf Stürme jetzt leicht erhöht, was das Segeln etwas gefährlicher machen würde. Außerdem werden im Sommer und im Herbst die ausgewachsenen Bäume [Samen](https://wiki.eressea.de/index.php/Rohstoffe#Tief_im_Wald) ab, die dann im nächsten Frühjahr zu Schösslingen austreiben können.
+
+Letzte Runde haben wir nicht rekrutiert, daher ist die Personenzahl unverändert. Da wir aber Einheiten zerteilt haben, ist die Anzahl Einheiten deutlich angestiegen. In den Hinweisen wird außerdem der Countdown mitteilt, ab wann wir angreifen oder angegriffen werden können. Noch 4 Wochen haben wir sicher Ruhe.
+```
+                 Report für Tutorial, Friday, 20. October 2023, 20:03
+       Wir schreiben die erste Woche des Monats Nebeltage im Jahre 1 des zweiten
+                              Zeitalters. Es ist Herbst.
+
+        Falmer (mgkw), Goblins/Kein Magiegebiet (goblinplayer@drachensgrab.de)
+
+            Deine Partei hat 25 Personen in 23 von maximal 2500 Einheiten.
+
+          Optionen: AUSWERTUNG COMPUTER ZUGVORLAGE STATISTIK ZIPPED ADRESSEN
+
+                                       Hinweise
+
+    Deine Partei ist noch die nächsten 4 Wochen immun gegen Angriffe.
+```
+Gucken wir also, was sich im schönen Kodgur getan hat:
+```
+    Kodgur (0,0), Wald, 500/100 Bäume, 3997 Bauern, 91862 Silber, 53 Pferde. Im
+    Nordwesten der Region liegt das Hochland von Gosnad (-1,1), im Nordosten Ozean
+    (0,1), im Osten Ozean (1,0), im Südosten Ozean (1,-1), im Südwesten Ozean
+    (0,-1) und im Westen das Bergland von Sorogokal (-1,0).
+
+    Auf dem Markt wird für Juwelen 7 Silber verlangt. Geboten wird für Balsam 20
+    Silber, für Gewürze 25 Silber, für Myrrhe 30 Silber, für Öl 15 Silber,
+    für Seide 30 Silber und für Weihrauch 20 Silber.
+```
+Der Baumbestand ist konstant. Neue Bäume gibt es erst im Frühjahr, wenn die Samen austreiben, bzw. Schösslinge zu Bäume heranwachsen und noch haben keine Bäume für den Waffenbau geschlagen. Dafür haben wir nun vier neue Bauern in der Region. Je angefangenen Tausend Bauern entsteht ein neuer Bauer, daher sind bei uns mit letzte Woche 3993 Bauern also vier neue entstanden. Der Pferdebestand hat sich um ein Pferd erhöht gegenüber der letzten Runde.
+
+Beim Handel können aufmerksame Leser sehen, dass der Verkaufspreis für Gewürze um 5 Silber gestiegen ist. Handelspreise steigen in der Regel mit der Zeit an. Beschleunigen könnte man diesen Automatismus indem man einen [Hafen](https://wiki.eressea.de/index.php/Andere_Geb%C3%A4ude#hafen) in der Region baut. Von alleine Fallen Preise nie. Wenn ein Händler allerdings zuviel an die Bauern verkauft, d.h. mehr als sie nachfragen, dann kann man die Preise leicht (aus Versehen) absenken. In Kodgur sollten daher nie mehr als 39 Luxusgüter einer Sorte verkauft werden.
+
+Gucken wir uns nun aber mal unsere Einheiten genauer an:
+```
+      * Falmerschleicher (q8hq), 1 Höhlengoblin, flieht, Talente: Tarnung 3, hat:
+        4 Holz, 130 Silber, Ring der Unsichtbarkeit, 4 Steine, "LERNE AUTO
+        Tarnung".
+```
+Unsere ursprünglich erste Einheit ist in Tarnung auf Stufe 3 aufgestiegen. Wir werden sie aber in jeden Fall bis Tarnung 4 weiter lernen lassen. Denn ab Tarnung 4 greift eine rassenfähigkeit der Goblins. Bei jedem Diebstahlversuch erhalten wir - auch wenn wir erwischt werden - mindestens 50 Silberstücke.
+
+Die Waffenbauer hatten wir letzte Runde zerteilt. Daher haben wir nun sechs 1er Einheiten in Kodgur stehen, wenn auch nicht direkt untereinander:
+
+      * Falmerschmiede (5), 1 Höhlengoblin, flieht, Talente: Waffenbau 1, hat: 6
+        Holz, 280 Silber, "LERNE AUTO Waffenbau".
+
+    [...]
+
+      * Falmerschmiede (21), 1 Höhlengoblin, flieht, Talente: Waffenbau 1, hat:
+        40 Silber, "LERNE AUTO Waffenbau".
+
+      * Falmerschmiede (22), 1 Höhlengoblin, flieht, Talente: Waffenbau 1, hat:
+        40 Silber, "LERNE AUTO Waffenbau".
+
+      * Falmerschmiede (23), 1 Höhlengoblin, flieht, Talente: Waffenbau 1, hat:
+        40 Silber, "LERNE AUTO Waffenbau".
+
+      * Falmerschmiede (24), 1 Höhlengoblin, flieht, Talente: Waffenbau 1, hat:
+        40 Silber, "LERNE AUTO Waffenbau".
+
+      * Falmerschmiede (25), 1 Höhlengoblin, flieht, Talente: Waffenbau 1, hat:
+        40 Silber, "LERNE AUTO Waffenbau".
+
+Die Schmiede sind also (leider) alle noch bei Waffenbau 1. Eine Waffe können wir so also noch nicht bauen. Ebenfalls zerteilt hatten wir die Steuereintreiber in Einheit `Falmerkrieger (9)`, so dass wir auch hier etliche 1er Einheiten nun in der Auswertung finden:
+
+      * Falmerkrieger (8), 1 Höhlengoblin, aggressiv, Talente: Steuereintreiben
+        1, hat: 30 Silber, "LERNE AUTO Steuereintreiben".
+
+      * Falmerkrieger (9), 1 Höhlengoblin, aggressiv, Talente: Steuereintreiben
+        1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+    [...]
+
+      * Falmerkrieger (L1jq), 1 Höhlengoblin, aggressiv, Talente:
+        Steuereintreiben 1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+      * Falmerkrieger (13), 1 Höhlengoblin, aggressiv, Talente: Steuereintreiben
+        1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+      * Falmerkrieger (s235), 1 Höhlengoblin, aggressiv, Talente:
+        Steuereintreiben 1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+      * Falmerkrieger (gpn2), 1 Höhlengoblin, aggressiv, Talente:
+        Steuereintreiben 1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+      * Falmerkrieger (to2L), 1 Höhlengoblin, aggressiv, Talente:
+        Steuereintreiben 1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+      * Falmerkrieger (17), 1 Höhlengoblin, aggressiv, Talente: Steuereintreiben
+        1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+      * Falmerkrieger (co3c), 1 Höhlengoblin, aggressiv, Talente:
+        Steuereintreiben 1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+      * Falmerkrieger (19), 1 Höhlengoblin, aggressiv, Talente: Steuereintreiben
+        1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+      * Falmerkrieger (20), 1 Höhlengoblin, aggressiv, Talente: Steuereintreiben
+        1, hat: 40 Silber, "LERNE AUTO Steuereintreiben".
+
+Allerdings sind auch diese nicht aufgestiegen. Mehr Glück hatte beim Lernen hatten aber die folgenden Einheiten:
+
+     * Falmerkrieger (7), 1 Höhlengoblin, aggressiv, Talente: Stangenwaffen 2,
+       hat: 30 Silber, "LERNE AUTO Stangenwaffen".
+
+     * Waldfalmer (10), 3 Höhlengoblins, flieht, Talente: Holzfällen 2, hat:
+       120 Silber, "LERNE AUTO Holzfällen".
+
+Beides passt uns gut in den Plan. Mit dem "Falmerkrieger" mit Stangenwaffen 2 können wir alle zuvor aufgelisteten Steuereintreiber lehren, wenn wir das wollen. Durch einen Lehrer bekommt man pro Runde zwei statt nur einem [Lernversuch](https://wiki.eressea.de/index.php/Talente). Außerdem sind unsere drei Holzfäller aufgestiegen. Mit Holzfällen 2 kann jede Person pro zwei Bäume fällen. Eine Einheit mit 3 Personen kann also sechs Bäumen in der Region in sechs Holz verwandeln. Genau richtig um unsere sechs Waffenbauer zu versorgen, sobald diese Waffenbau 2 erreichen.   
+
+Weniger Glück beim Lernen hatten allerdings unser Wahrnehmer, der weiterhin bei Stufe 1 steht. Und wie zu erwarten ist unser Unterhalter immer noch bei Unterhaltung 0, der mit dem Malus -1 auch eine echte Hürde zu überwinden hat. 
+
+      * Wilder Falmer (6), 1 Höhlengoblin, flieht, Talente: Wahrnehmung 1, hat:
+        30 Silber, "LERNE Wahrnehmung".
+
+      * Falmer mit roter Nase (11), 1 Höhlengoblin, flieht, Talente: Unterhaltung
+        0, hat: 40 Silber, "LERNE AUTO Unterhaltung".
+
+Zu guter Letzt gucken wir auf unseren "Bergfalmer".
+
+      * Bergfalmer (12), 1 Höhlengoblin, flieht, Talente: Bergbau 2, Steinbau 1,
+        hat: 40 Silber, "LERNE AUTO Steinbau".
+
+Die Einheit hatte den Befehl Steinbau zu lernen und ist diese Woche auch auf Steinbau 1 aufgestiegen, da Goblins auf dieses Talent weder Malus noch Bonus haben. Wir lesen also direkt nochmal aufmerksam die Regionsstatistik. Denn wenn es in Kodgur Steine gibt, dann sehen wir jetzt alle Vorkommen bis auf Schicht 2, was dem Talentwert x2 enstpricht. Leider werden nur Bauern, Bäume und Pferde in der Regionsbeschreibung erwähnt. Steine gibt es hier - wenn überhaupt - frühstens ab Schicht 3.   
+
+## Der grobe Plan
+Alles wie gehabt: Unser erstes Ziel ist Silber zu verdienen. Waffenbauer und Steuereintreiber werden also erstmal weiter lernen. Die Waffenbauer müssen Stufe 2 erreichen um Speere oder Bögen zu bauen. Die Steuereintreiber, werden solange Steuereintreiben lernen, bis die Waffenbauer Stufe 2 erreichen. Wir spekulieren darauf, dass die Steuereintreiber bis dahin möglichst gut sind und mehr Silber eintreiben können. Die Treiber brauchen aber auch noch ein Waffentalent, sonst können sie keine Steuern eintreiben. Das sollen sie aber erst in der Runde lernen, in der die Waffenbauer Speere bauen. Das sollen ja keine Krieger werden, sondern Steuereintreiber. Die müssen also nur wissen wie rum sie den Speer halten müssen.
+
+Wahrnehmer, Tarner und Unterhalter werden enenfalls weiter lernen. Unser Bergfalmer hatte bisher Pech und hat weder Eisen noch Steine gefunden, wir lassen ihn daher Pferdedressur lernen, um Pferde zu fangen. Diese können wir später entweder zum Transport oder für zukünftige Krieger benutzen.
+
+Die Holzfäller haben direkt Stufe 2 erreicht. Wir könnten also direkt Holz schlagen. Aber die Waffenbauer sind noch bei Stufe 1, außerdem haben wir noch unser 10 Holz, mit denen wir gestartet sind. Anstatt einen Holzvorrat anzulegen, wollen wir wehrhafter werden. Die Holzfäller sollen daher Bogenschießen lernen. Später können diese dann wie geplant Holz machen, gleichzeitig aber die Region bewachen und als Miliz mitkämpfen, sollte jemand unsere Heimat überfallen wollen.
+
+
+## Die Befehle
+Die Befehle sind schnell geschrieben, da die meisten Einheiten weiterlernen. Daher werden hier nur Ausschnitte der Befehle gezeigt:
+
+Da wir die Schmiede zerteilt hatten, verteilen wir auch das Holz. Der [Materialpool](https://wiki.eressea.de/index.php/Materialpool#Der_Materialpool) würde auch dafür sorgen, dass jeder Waffenbauer ein Holz bekäme - sofern genug in der Region liegt und es nicht [reserviert](https://wiki.eressea.de/index.php/Materialpool#RESERVIERE_und_GIB) ist. Wenn das Holz aber direkt beim Schmied liegt, erleichtert das die Übersicht.
+
+    EINHEIT 5;		Falmerschmiede [1,280$]
+    ;bestaetigt
+    LERNE AUTO Waffenbau
+    ; Holz verteilen!
+    GIB 21 1 Holz
+    GIB 22 1 Holz
+    GIB 23 1 Holz
+    GIB 24 1 Holz
+    GIB 25 1 Holz
+
+Da die Waffenbauer noch nicht soweit sind, nutzen wir die Zeit um unsere Holzfäller zur Bogenmiliz auszubilden. Die Bögen bauen wir dann bei Gelegenheit. Außerdem sparen wir nicht mit Kommentaren, damit wir nicht vergessen was wir uns gedacht hatten, als wir die Befehle gaben.
+
+    EINHEIT 10;		Waldfalmer [3,120$]
+    ;bestaetigt
+    LERNE AUTO Bogenschießen
+    // bis T2 dann Holzen...
+    // ... aber ich brauche erst regelmäßig Holz, wenn die Waffenbauer T2 sind.
+    // also schadet etwas zweite Reihe nicht...
+
+Und den Bergfalmer bitten wir Pferdedressur zu lernen:
+
+    EINHEIT 12;		Bergfalmer [1,40$]
+    ;bestaetigt
+    LERNE AUTO Pferdedressur
+    // Eisen schonmal keins bis Stufe 4, denn man sieht Talent x2 Schichten
+    // nope, auch keine Steine bis T2
+    // dann machen wir halt erstmal Pferde...
+
+Rekrutieren wollen wir noch nicht weiter. Damit starten wir, sobald wir sobald die Silberversorgung steht. Was bringen mit 10 Goblins mehr, wenn ich mir dafür in 2 Runden das Silber ausgeht.
+
+Dann hoffen wir mal, das einige Waffenbauer nächste Runde aufsteigen, damit wir endlich Waffen bauen können. Dann werden die Befehle auch etwas komplexer.
