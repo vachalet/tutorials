@@ -12,7 +12,7 @@ Diesmal gibt es hier kaum interessante Infos.
 Erwähnenswert ist, dass jetzt [Herbst](https://wiki.eressea.de/index.php/Welt#Die_Zeitrechnung_Eresseas) ist. Wenn wir zur See fahren würden, wäre die Chance auf Stürme jetzt leicht erhöht, was das Segeln etwas gefährlicher machen würde. Außerdem werden im Sommer und im Herbst die ausgewachsenen Bäume [Samen](https://wiki.eressea.de/index.php/Rohstoffe#Tief_im_Wald) ab, die dann im nächsten Frühjahr zu Schösslingen austreiben können.
 
 Letzte Runde haben wir nicht rekrutiert, daher ist die Personenzahl unverändert. Da wir aber Einheiten zerteilt haben, ist die Anzahl Einheiten deutlich angestiegen. In den Hinweisen wird außerdem der Countdown mitteilt, ab wann wir angreifen oder angegriffen werden können. Noch 4 Wochen haben wir sicher Ruhe.
-```
+
                  Report für Tutorial, Friday, 20. October 2023, 20:03
        Wir schreiben die erste Woche des Monats Nebeltage im Jahre 1 des zweiten
                               Zeitalters. Es ist Herbst.
@@ -26,9 +26,9 @@ Letzte Runde haben wir nicht rekrutiert, daher ist die Personenzahl unverändert
                                        Hinweise
 
     Deine Partei ist noch die nächsten 4 Wochen immun gegen Angriffe.
-```
+
 Gucken wir also, was sich im schönen Kodgur getan hat:
-```
+
     Kodgur (0,0), Wald, 500/100 Bäume, 3997 Bauern, 91862 Silber, 53 Pferde. Im
     Nordwesten der Region liegt das Hochland von Gosnad (-1,1), im Nordosten Ozean
     (0,1), im Osten Ozean (1,0), im Südosten Ozean (1,-1), im Südwesten Ozean
@@ -37,17 +37,17 @@ Gucken wir also, was sich im schönen Kodgur getan hat:
     Auf dem Markt wird für Juwelen 7 Silber verlangt. Geboten wird für Balsam 20
     Silber, für Gewürze 25 Silber, für Myrrhe 30 Silber, für Öl 15 Silber,
     für Seide 30 Silber und für Weihrauch 20 Silber.
-```
+
 Der Baumbestand ist konstant. Neue Bäume gibt es erst im Frühjahr, wenn die Samen austreiben, bzw. Schösslinge zu Bäume heranwachsen und noch haben keine Bäume für den Waffenbau geschlagen. Dafür haben wir nun vier neue Bauern in der Region. Je angefangenen Tausend Bauern entsteht ein neuer Bauer, daher sind bei uns mit letzte Woche 3993 Bauern also vier neue entstanden. Der Pferdebestand hat sich um ein Pferd erhöht gegenüber der letzten Runde.
 
 Beim Handel können aufmerksame Leser sehen, dass der Verkaufspreis für Gewürze um 5 Silber gestiegen ist. Handelspreise steigen in der Regel mit der Zeit an. Beschleunigen könnte man diesen Automatismus indem man einen [Hafen](https://wiki.eressea.de/index.php/Andere_Geb%C3%A4ude#hafen) in der Region baut. Von alleine Fallen Preise nie. Wenn ein Händler allerdings zuviel an die Bauern verkauft, d.h. mehr als sie nachfragen, dann kann man die Preise leicht (aus Versehen) absenken. In Kodgur sollten daher nie mehr als 39 Luxusgüter einer Sorte verkauft werden.
 
 Gucken wir uns nun aber mal unsere Einheiten genauer an:
-```
+
       * Falmerschleicher (q8hq), 1 Höhlengoblin, flieht, Talente: Tarnung 3, hat:
         4 Holz, 130 Silber, Ring der Unsichtbarkeit, 4 Steine, "LERNE AUTO
         Tarnung".
-```
+
 Unsere ursprünglich erste Einheit ist in Tarnung auf Stufe 3 aufgestiegen. Wir werden sie aber in jeden Fall bis Tarnung 4 weiter lernen lassen. Denn ab Tarnung 4 greift eine rassenfähigkeit der Goblins. Bei jedem Diebstahlversuch erhalten wir - auch wenn wir erwischt werden - mindestens 50 Silberstücke.
 
 Die Waffenbauer hatten wir letzte Runde zerteilt. Daher haben wir nun sechs 1er Einheiten in Kodgur stehen, wenn auch nicht direkt untereinander:

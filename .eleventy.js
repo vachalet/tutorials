@@ -2,7 +2,18 @@ const moment = require('moment');
 
 moment.locale('en');
 
-module.exports = async function (eleventyConfig) {
+const pageAssetsPlugin = require('eleventy-plugin-page-assets');
+
+module.exports = function (eleventyConfig) {
+
+  // https://www.11ty.dev/docs/languages/markdown/#indented-code-blocks
+  eleventyConfig.amendLibrary("md", (mdLib) => mdLib.enable("code"));
+
+  // https://github.com/victornpb/eleventy-plugin-page-assets
+  eleventyConfig.addPlugin(pageAssetsPlugin, {
+      mode: "parse",
+      postsMatching: "**/*.md",
+  });
 
   eleventyConfig.addFilter('dateIso', date => {
     return moment(date).toISOString();
@@ -19,7 +30,7 @@ module.exports = async function (eleventyConfig) {
 };
 
 module.exports.config = {
-  pathPrefix: "/tutorials",
+  // pathPrefix: "/tutorials",
 }
 
 function extractExcerpt(article) {
