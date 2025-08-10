@@ -4,6 +4,7 @@
   "description": "A collection of tutorials for the PBEM Eressea",
   "scripts": {
     "build": "npx eleventy",
+    "build-gh": "env NODE_ENV=production npx eleventy --pathprefix tutorials",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy",
     "test": "jest"

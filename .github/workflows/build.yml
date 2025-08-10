@@ -26,10 +26,11 @@ jobs:
       - name: Install dependencies & build
         run: |
           npm ci
-          npm run build          
+          npm run build-gh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: needs.pr-check.outputs.number != 'null'
         with:
           publish_dir: ./_site
           github_token: ${{ secrets.GITHUB_TOKEN }}
