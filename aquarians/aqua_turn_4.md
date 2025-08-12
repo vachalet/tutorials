@@ -16,7 +16,7 @@ A unique powerful ability. An aquarian can leave a coastal ship and move to an a
 https://wiki.eressea.de/Schiffsreise/en#Anschwimmen
 *However, it's impossible to go from land to water*
 
-![Map turn 4](./map4.PNG "Map turn 4")
+![Map turn 4](./map4.png "Map turn 4")
 
 
 ## Sygirfal

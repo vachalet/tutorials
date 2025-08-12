@@ -10,7 +10,7 @@ With our recruitments, the max trade will decrease from next week in this region
 The horses will be useful for trade, transport and island exploration.  
 The 2 nearby regions are swamps, it's not great but could be worse. We'll need to settle there in the future at least for the first trade.
 
-![Map turn 1](./map1.PNG "Map turn 1")
+![Map turn 1](./map1.png "Map turn 1")
 
 
 ## Recruitment

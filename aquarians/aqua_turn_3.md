@@ -6,7 +6,7 @@ We're lucky, one mage reached level 2!
 We're lucky, one entertainer reached level 2!  
 We have 270 silvers in our region.  
 
-![Map turn 3](./map3.PNG "Map turn 3")
+![Map turn 3](./map3.png "Map turn 3")
 
 ## Actions
 
@@ -21,10 +21,10 @@ An entertainer accompanies him. He enters the boat and gives control to the capt
 
 ## Magellan : to do for aquarian
 How to configure magellan to see all ships in a region : In EXTRA/Options/Overview  
-![Magellan param](./magel.PNG "Magellan view ships in tree")  
+![Magellan param](./magel.png "Magellan view ships in tree")  
 
 Now all ships can be seen easily  
 
-![Magellan view](./see-ships.PNG "Magellan overview ships in tree")  
+![Magellan view](./see-ships.png "Magellan overview ships in tree")  
 
 

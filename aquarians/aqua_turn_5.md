@@ -6,11 +6,11 @@ No visits from potential neighbors.
 **Discovery of close neighbors!**  
 **Meeting with a tribe from the new island!**  
 
-![Map turn 5](./map5.PNG "Map turn 5")
+![Map turn 5](./map5.png "Map turn 5")
 
 
 ## Vesolsinmul
-![Linge Home Region](./t5south.PNG "Vesolsinmul")
+![Linge Home Region](./t5south.png "Vesolsinmul")
 
 The boat that left west directly landed on the plain of Vesolsinmul. This is the starting region of the Halbe Linge, a halfling tribe.  
 This race is a real money-making machine. It would be good to befriend them otherwise we're going to be in competition.  
@@ -23,7 +23,7 @@ Since we arrived from the southeast, we must leave either by the southwest or by
 The southwest being land, we leave by the east.  
 
 ## Gogan Ror
-![Anbeter Home Region](./t5north.PNG "Gogan Ror")
+![Anbeter Home Region](./t5north.png "Gogan Ror")
 
 Our swimmer meets the Anbeter des Großen Baums, a human tribe. There is 1 castle at 10 (humans' basic allocation), and 2 potions.  
 It's a bit early for potion making so these must be "pot of toadslime" or potions given by another tribe.  
