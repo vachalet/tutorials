@@ -1,8 +1,6 @@
 ---
-layout: post-layout.njk
 title: "Goblins: Runde 2"
 date: 2024-03-24
-tags: ['post','tutorial','goblins','turn-33']
 ---
 # Runde 2
 

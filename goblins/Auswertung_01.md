@@ -1,8 +1,6 @@
 ---
-layout: post-layout.njk
 title: "Goblins: Runde 1"
 date: 2024-03-17
-tags: ['post','tutorial','goblins','turn-32']
 ---
 # Runde 1
 ## Die Auswertung
