@@ -1,8 +1,6 @@
 ---
-layout: post-layout.njk
 title: "Goblins: Runde 4"
 date: 2024-04-07
-tags: ['post','tutorial','goblins','turn-35']
 ---
 # Runde 4
 ## Die Auswertung

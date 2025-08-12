@@ -1,8 +1,6 @@
 ---
-layout: post-layout.njk
 title: "Goblins: Runde 8"
 date: 2024-05-05
-tags: ['post','tutorial','goblins','turn-39']
 ---
 # Runde 8
 ## Die Auswertung
