@@ -1,17 +1,22 @@
 ---
 layout: base-layout.njk
-pagination:
-  data: collections.race
-  size: 10
-  reverse: true
-  alias: races
+title: Eressea Beispielpartie
 ---
-{% for post in races %}
-  <article>
 
+<article>
     <h1>
-      <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+      <a href="goblins">Goblins</a>
     </h1>
+</article>
 
-  </article>
-{% endfor %}
+<article>
+    <h1>
+      <a href="aquarians">Meermenschen</a>
+    </h1>
+</article>
+
+<article>
+    <h1>
+      <a href="dwarves">Zwerge</a>
+    </h1>
+</article>
