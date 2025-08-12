@@ -12,6 +12,7 @@ module.exports = function (eleventyConfig) {
   // https://github.com/victornpb/eleventy-plugin-page-assets
   eleventyConfig.addPlugin(pageAssetsPlugin, {
       mode: "parse",
+	  assetsMatching: "*.png|*.PNG|*.jpg|*.JPG|*.gif|*.GIF",
       postsMatching: "**/*.md",
   });
 
