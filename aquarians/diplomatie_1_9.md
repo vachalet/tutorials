@@ -11,7 +11,7 @@ Here the exchanges with other peoples are recorded. They're organized by turn an
 
 ### Halbe Linge
 
-**They wrote to us first!**
+**They wrote to us first!**  
 Personally, I always prefer to be the first to establish contact. You keep an advantage in exchanges, by leading rather than being on the receiving end.
 ---
 
