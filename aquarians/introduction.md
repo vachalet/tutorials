@@ -25,9 +25,10 @@ So either the Aquarian puts all their energy into making combatants (first a fro
 
 Their special ability in navigation won't really be used if they opt for survival through weapons, so you might as well play a human who has fewer penalties.
 
-If you choose to map, then there's not a twig of wood to put into weapons, at least at the beginning.
+If you choose to explore, then there's not a twig of wood to put into weapons, at least at the beginning.
 
-In any case, ultimately, the Aquarian's survival lies more in their ability to settle on other islands, quickly establish contacts and find alliances. Proving their clear superiority in world exploration can allow them to position themselves as indispensable to their neighbors. They must not give away their maps and their contacts - it's their currency of survival.
+In any case, ultimately, the Aquarian's survival lies more in their ability to settle on other islands, quickly establish contacts and find alliances. Proving their clear superiority in world exploration can allow them to position themselves as indispensable to their neighbors.  
+They must not give away their maps and their contacts - it's their currency of survival.
 
 **Magic**
 
@@ -53,9 +54,9 @@ This is a risky starting gamble as it will depend on
 
 But at least it will allow you to have fun and meet many players!
 
-Important note: Players never view favorably a neighbor who doesn't communicate. They quickly consider such a player an enemy. 
-To succeed, you'll need to dedicate time to messages exchanged with other players. You'll need to work on establishing a relationship of trust without squandering your information. 
-So if you don't have enough time to dedicate to this, move on, or play the sedentary and directly dangerous Aquarian.
+**Important note**: Players never view favorably a neighbor who doesn't communicate. They quickly consider such a player an enemy.  
+To succeed, you'll need to dedicate time to messages exchanged with other players. You'll need to work on establishing a relationship of trust without squandering your information.  
+So if you don't have enough time to dedicate to this, move on, or play the sedentary and directly dangerous Aquarian.  
 
 For a more warrior/defense start, take inspiration from the human start with a few exceptions, and add a touch of navigation.
 
