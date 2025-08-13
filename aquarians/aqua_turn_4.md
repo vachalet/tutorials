@@ -19,7 +19,7 @@ Let's take advantage of having 2 entertainers on board to save time: let's make 
 The boat will continue its exploration in coastal mode, but let's not forget to give 10 silvers to the swimmer/ambassador!
 ### Swimming
 A unique powerful ability. An aquarian can leave a coastal ship and move to an adjacent land region. The same rules as land movement apply. For more details, consult the wiki.
-https://wiki.eressea.de/Schiffsreise/en#Anschwimmen
+https://wiki.eressea.de/Schiffsreise/en#Anschwimmen  
 *However, it's impossible to go from land to water*
 
 ## Sygirfal
@@ -41,6 +41,8 @@ We're going to hug the western coast.
  - 1 riding to explore the island and later for transport.  
 - We start 1 new boat and train the future captain.  
 - Everyone who can brings back money.  
+### Mages
+
 The new mage who reached level 2 only gained 1 Aura point, so he cannot cast a spell at level 2. The other one with 3 points can.  
 The toad cannot learn. So we give him the order to work. Moreover we give his "pot of toadslime" to another unit so the mage won't be easily identifiable.  
 The toad will become a mage again in a few turns.  
