@@ -5,13 +5,13 @@ date: 2024-03-31
 
 # Turn 3
 
+![Map turn 3](./map3.png "Map turn 3")
+
 No visits from potential neighbors.  
 No coasts on the horizon.  
 We're lucky, one mage reached level 2!  
 We're lucky, one entertainer reached level 2!  
 We have 270 silvers in our region.  
-
-![Map turn 3](./map3.png "Map turn 3")
 
 ## Actions
 

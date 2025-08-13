@@ -5,10 +5,11 @@ date: 2024-03-17
 # Turn 1
 
 ## Location Discovery:
-Region name is Sygirfal, 2 swamps around and 4 oceans.
-We will be able to send boats in 4 directions! 
 
 ![Map turn 1](./map1.png "Map turn 1")
+
+Region name is Sygirfal, 2 swamps around and 4 oceans.
+We will be able to send boats in 4 directions! 
 
 Starting on a wooded plain, surrounded by 2 swamps and the ocean.  
 Resources: 500 wood, 100 saplings, 51 horses, 4004 peasants.  

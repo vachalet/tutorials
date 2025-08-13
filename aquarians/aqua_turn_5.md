@@ -4,14 +4,14 @@ date: 2024-04-14
 ---
 # Turn 5
 --------
+
+![Map turn 5](./map5.png "Map turn 5")
+
 *Diplomatic messages are in communication*
 
 No visits from potential neighbors.  
 **Discovery of close neighbors!**  
 **Meeting with a tribe from the new island!**  
-
-![Map turn 5](./map5.png "Map turn 5")
-
 
 ## Vesolsinmul
 ![Linge Home Region](./t5south.png "Vesolsinmul")

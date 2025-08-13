@@ -5,6 +5,8 @@ date: 2024-04-07
 # Turn 4
 --------
 
+![Map turn 4](./map4.png "Map turn 4")
+
 - No visits from potential neighbors.  
 - Coasts on the horizon!  
 - But our second boat didn't leave!  
@@ -19,9 +21,6 @@ The boat will continue its exploration in coastal mode, but let's not forget to 
 A unique powerful ability. An aquarian can leave a coastal ship and move to an adjacent land region. The same rules as land movement apply. For more details, consult the wiki.
 https://wiki.eressea.de/Schiffsreise/en#Anschwimmen
 *However, it's impossible to go from land to water*
-
-![Map turn 4](./map4.png "Map turn 4")
-
 
 ## Sygirfal
 
