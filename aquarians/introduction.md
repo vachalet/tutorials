@@ -1,6 +1,9 @@
-# Aquarian Tutorial - Introduction
+---
+title: "Aquarians: Introduction"
+date: 2024-03-10
+---
 
-*I'll skip the technical details, the WIKI answers your questions, otherwise the Goblin's tutorial is a model of its kind.*
+# Aquarian Tutorial - Introduction
 
 ## Explanation of Choices
 
@@ -43,6 +46,8 @@ This is a very risky starting gamble as it will depend on your neighbors and the
 But at least it will allow you to have fun and meet many players!
 
 For a more warrior/defense start, take inspiration from the human start with a few exceptions, and add a touch of navigation.
+
+*I'll skip the technical details, the WIKI answers your questions, otherwise the Goblin's tutorial is a model of its kind.*
 
 
 

@@ -1,6 +1,15 @@
+---
+title: "Aquarian: Runde 1"
+date: 2024-03-17
+---
 # Turn 1
 
 ## Location Discovery:
+Region name is Sygirfal, 2 swamps around and 4 oceans.
+We will be able to send boats in 4 directions! 
+
+![Map turn 1](./map1.png "Map turn 1")
+
 Starting on a wooded plain, surrounded by 2 swamps and the ocean.  
 Resources: 500 wood, 100 saplings, 51 horses, 4004 peasants.  
 General starting allocation: 2500 silvers, 4 stones, 10 wood.  
@@ -9,9 +18,6 @@ Classic start, but with lots of horses (that's very good).
 With our recruitments, the max trade will decrease from next week in this region.  
 The horses will be useful for trade, transport and island exploration.  
 The 2 nearby regions are swamps, it's not great but could be worse. We'll need to settle there in the future at least for the first trade.
-
-![Map turn 1](./map1.png "Map turn 1")
-
 
 ## Recruitment
 - Recruit our 5 mages (COMBAT status Defensive)

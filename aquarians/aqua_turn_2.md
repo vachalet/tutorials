@@ -1,11 +1,17 @@
+---
+title: "Aquarians: Runde 2"
+date: 2024-03-24
+---
 # Turn 2
+
+![Map turn 2](./map2.png "Map turn 2")
 
 Everything went as planned except for one entertainer unit that didn't leave the boat. I forgot the LEAVE order!  
 No major consequences, it's an opportunity that will need to be exploited.  
 No visits from potential neighbors.  
 No coasts on the horizon.  
 
-![Map turn 2](./map2.png "Map turn 2")
+
 
 The turn is simple, we have no more silvers to spend:  
 Everyone who can brings back money, the boat explores, we start building the second boat. The future captain learns entertain, it can always be useful.  
