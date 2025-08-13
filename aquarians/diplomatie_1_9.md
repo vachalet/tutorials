@@ -10,7 +10,7 @@ date: 2024-04-15
 ### Halbe Linge
 
 **They wrote to us first!**
-
+Personally, I always prefer to be the first to establish contact. You keep an advantage in exchanges, by leading rather than being on the receiving end.
 ---
 
 **From Halbe Linge:**
