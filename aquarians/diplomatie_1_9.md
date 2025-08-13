@@ -7,6 +7,8 @@ date: 2024-04-15
 
 ## TURN 5
 
+Here the exchanges with other peoples are recorded. They're organized by turn and by faction.
+
 ### Halbe Linge
 
 **They wrote to us first!**
