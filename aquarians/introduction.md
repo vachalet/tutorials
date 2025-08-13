@@ -27,7 +27,11 @@ Their special ability in navigation won't really be used if they opt for surviva
 
 If you choose to map, then there's not a twig of wood to put into weapons, at least at the beginning.
 
-In any case, ultimately, the Aquarian's survival lies more in their ability to settle on other islands, quickly establish contacts and find alliances. Proving their clear superiority in cartography can allow them to position themselves as indispensable to their neighbors. They must not give away their maps - it's their currency of survival.
+In any case, ultimately, the Aquarian's survival lies more in their ability to settle on other islands, quickly establish contacts and find alliances. Proving their clear superiority in world exploration can allow them to position themselves as indispensable to their neighbors. They must not give away their maps and their contacts - it's their currency of survival.
+
+**Magic**
+
+Magic is powerful in the world of Eressea.
 
 They have no penalty in magic, and the choice of their school is important. It will determine their ability to defend themselves quickly or their usefulness in an alliance long-term.
 
@@ -37,13 +41,21 @@ The Draig school offers a combat spell from level 2.
 
 Read the spells of the different schools carefully and make your choice, but Gwyrrd is a choice you'll never regret as an Aquarian.
 
+**The Concept**
+
 Here I will present the development of an Aquarian faction focused on exploration, trade, communication and intelligence.
 
 The idea will be to quickly create an economy through entertainment, train mages who will also contribute to the economy but also to defense, and send the maximum number of boats toward the unknown.
 
-This is a very risky starting gamble as it will depend on your neighbors and their ability to project into the future and know how to trust.
+This is a risky starting gamble as it will depend on 
+- your neighbors and their ability to project into the future and place trust.
+- your ability to discover new islands and settle there.
 
 But at least it will allow you to have fun and meet many players!
+
+Important note: Players never view favorably a neighbor who doesn't communicate. They quickly consider such a player an enemy. 
+To succeed, you'll need to dedicate time to messages exchanged with other players. You'll need to work on establishing a relationship of trust without squandering your information. 
+So if you don't have enough time to dedicate to this, move on, or play the sedentary and directly dangerous Aquarian.
 
 For a more warrior/defense start, take inspiration from the human start with a few exceptions, and add a touch of navigation.
 
