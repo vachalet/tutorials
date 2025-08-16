@@ -1,6 +1,6 @@
 ---
 title: "Aquarians: Exchanges turns 5 to 9"
-date: 2024-04-15
+date: 2023-10-27
 ---
 
 # DIPLOMACY LOG
