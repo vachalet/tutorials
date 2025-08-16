@@ -21,7 +21,9 @@ These zones are separated by borders.
 "Firewalls" typically serve as borders.  
 Firewalls can't be crossed.
 
-## Topares: meeting 2 neighbors, "Halbe Linge" and "Trolle, einige Steine tragend".
+## Topares: 
+
+Meeting 2 neighbors, "Halbe Linge" and "Trolle, einige Steine tragend".
 Both could work together.
 Sending a message to the troll. Interesting partner for an Aquarian (mining, quarrying, construction and solid front line)!
 
