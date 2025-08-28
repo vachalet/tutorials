@@ -1,0 +1,153 @@
+<html><head></head><body><h1>Schnellanleitung zum Veröffentlichen Ihres „Tutorials"</h1>
+<h2>📋 Überblick</h2>
+<p>Diese Anleitung führt Sie durch die Veröffentlichung Ihrer Spielberichte auf GitHub Pages in 4 Hauptschritten:</p>
+<ol>
+<li><strong>Vorbereiten</strong> Ihrer Markdown-Dateien</li>
+<li><strong>Erstellen</strong> Ihres GitHub-Forks</li>
+<li><strong>Hinzufügen</strong> Ihrer Dateien</li>
+<li><strong>Beitragen</strong> zum Hauptprojekt</li>
+</ol>
+<hr>
+<h2>SCHRITT 1: Markdown-Dateien vorbereiten</h2>
+<h3>1.1 Ihre .md-Dateien erstellen</h3>
+<ul>
+<li>Bereiten Sie Ihre Dateien im <code>.md</code> (Markdown) Format vor</li>
+<li>Konsultieren Sie Online-Tutorials oder verwenden Sie Konverter</li>
+<li><strong>Benennung:</strong> Verwenden Sie Namen ohne Leerzeichen (verwenden Sie <code>-</code> oder <code>_</code>)</li>
+<li><strong>Bilder:</strong> Vermeiden Sie Dateiendungen in Großbuchstaben</li>
+</ul>
+<h3>1.2 Den obligatorischen Header hinzufügen</h3>
+<p><strong>⚠️ WICHTIG:</strong> Fügen Sie diesen Block am Anfang jeder Datei ein:</p>
+<pre><code class="language-yaml">---
+title: "Your_Race: Runde 1"
+date: 2023-10-15
+---
+</code></pre>
+<ul>
+<li>Das <strong>Datum</strong> bestimmt die Anzeigereihenfolge auf Ihrer Seite</li>
+<li>Ich habe das Datum der Runden-Generierung eingesetzt. (also cr oder nr)</li>
+<li>Für Intro/Fazit: Passen Sie das Datum für die richtige Positionierung an</li>
+</ul>
+<h3>1.3 Formatierungsregeln</h3>
+<ul>
+<li><strong>Zeilenumbruch:</strong> mit <code>Leerzeichen+Leerzeichen+Return</code> enden</li>
+<li><strong>Titel:</strong> verwenden Sie <code>#</code>, <code>##</code>, <code>###</code></li>
+<li><strong>Bilder:</strong> Format <code>![alt](./image.png "titel")</code></li>
+</ul>
+<p><strong>Nützliche Ressourcen:</strong></p>
+<ul>
+<li><a href="https://discord.com/channels/509396702663278592/1193551778952781846/1404064429024346177">Discord</a></li>
+<li><a href="https://eressea.github.io/tutorials/goblins/">Goblins Beispiel</a></li>
+</ul>
+<hr>
+<h2>SCHRITT 2: Ihren GitHub-Fork erstellen</h2>
+<h3>2.1 Ein GitHub-Konto erstellen</h3>
+<p>Falls noch nicht geschehen: https://github.com</p>
+<h3>2.2 Das Repository forken</h3>
+<ol>
+<li><strong>Gehen Sie zu:</strong> https://github.com/eressea/tutorials</li>
+<li><strong>Klicken Sie auf:</strong> „Fork"-Button (oben rechts)</li>
+<li><strong>Wählen Sie:</strong> Ihr persönliches Konto</li>
+<li><strong>Warten Sie auf:</strong> die Fork-Erstellung</li>
+</ol>
+<h3>2.3 Ihren Fork konfigurieren</h3>
+<p><strong>Allgemeine Konfiguration</strong></p>
+<p><img src="./e09dc9efc090cf113697cf7b111b9d86f1b29c20.png" alt="General" title="General" integrity="sha1-e09dc9efc090cf113697cf7b111b9d86f1b29c20"></p>
+<p><strong>GitHub Pages aktivieren</strong></p>
+<p><img src="./18ab6a2cce961c48b8e02a9588e6a47a3dcc9229.png" alt="GitHub Pages" title="GitHub Pages" integrity="sha1-18ab6a2cce961c48b8e02a9588e6a47a3dcc9229"></p>
+<p><strong>💡 Hinweis:</strong> Für spätere Synchronisation → „Sync fork"-Button</p>
+<p><strong>⚠️ Berühren Sie nicht den gh-pages-Branch</strong> Er dient zur Veröffentlichung Ihrer Seiten.</p>
+<hr>
+<h2>SCHRITT 3: Ihre Dateien hinzufügen</h2>
+<h3>3.1 GitHub Desktop installieren</h3>
+<p><strong>Download:</strong> https://desktop.github.com/download/</p>
+<h3>3.2 Erster Start</h3>
+<ol>
+<li><strong>Authentifizierung:</strong> über Ihren Browser</li>
+<li><strong>Klonen:</strong> Wählen Sie Ihr Repository</li>
+<li><strong>Klicken Sie:</strong> „Clone your_account/tutorials"</li>
+<li><strong>Standardordner:</strong> <code>C:\Users\&lt;IhrBenutzername&gt;\Documents\GitHub\tutorials</code></li>
+</ol>
+<h3>3.3 Ihre Dateien organisieren</h3>
+<ul>
+<li><strong>Erstellen Sie:</strong> einen <code>your_race</code>-Ordner neben dem <code>goblins</code>-Ordner</li>
+<li><strong>Fügen Sie hinzu:</strong> Ihre <code>.md</code>-Dateien in diesen Ordner</li>
+</ul>
+<h3>3.4 Git-Workflow</h3>
+<h4>Änderungen ansehen</h4>
+<p><img src="./89bad55a102d6faf9f836fde7a4178a9e5195669.png" alt="Github Desktop 1" title="Github Desktop 1" integrity="sha1-89bad55a102d6faf9f836fde7a4178a9e5195669"></p>
+<h4>Commit (speichern)</h4>
+<ol>
+<li><strong>Wählen Sie:</strong> Dateien zum Committen aus</li>
+<li><strong>Schreiben Sie:</strong> kurze Beschreibung der Änderungen</li>
+<li><strong>Klicken Sie:</strong> „Commit * files to main"</li>
+</ol>
+<h4>Push (senden)</h4>
+<p><img src="./e0facfd95d2e8024878ee543df792c35c4d87017.png" alt="Push Request" title="Push Request" integrity="sha1-e0facfd95d2e8024878ee543df792c35c4d87017"></p>
+<p><strong>Klicken Sie:</strong> „Push origin" um zu GitHub zu senden</p>
+<hr>
+<h2>SCHRITT 4: Zum Projekt beitragen</h2>
+<h3>4.1 Ihre Arbeit überprüfen</h3>
+<h4>✅ Ihre Seiten testen</h4>
+<ol>
+<li><strong>Gehen Sie zu:</strong> Ihrer Website (Link in Settings → GitHub Pages)</li>
+<li><strong>Überprüfen Sie:</strong> die Seitenanzeige</li>
+<li><strong>Bei Problemen:</strong> auf Ihrem PC: ändern → commit → push</li>
+<li><strong>⏱️ Geduld:</strong> Update kann Zeit brauchen</li>
+</ol>
+<h4>✅ Ihren Fork synchronisieren</h4>
+<ul>
+<li><strong>Überprüfen Sie:</strong> ob Ihr Fork aktuell ist</li>
+<li><strong>Falls nötig:</strong> verwenden Sie „Sync fork"</li>
+</ul>
+<h3>4.2 Eine Pull Request erstellen</h3>
+<h4>Wenn alles bereit ist:</h4>
+<p><img src="./dac41ffe0cf0a5321de0cfd581692b8cfbdc2e41.png" alt="Pull Request" title="Pull Request" integrity="sha1-dac41ffe0cf0a5321de0cfd581692b8cfbdc2e41"></p>
+<ol>
+<li><strong>Gehen Sie zu:</strong> „Pull Request"</li>
+<li><strong>Klicken Sie:</strong> „New Pull Request"</li>
+<li><strong>Überprüfen Sie:</strong> alles was vorgeschlagen wird</li>
+<li><strong>Kommentieren Sie:</strong> erklären Sie Ihre Änderungen</li>
+<li><strong>Bestätigen Sie:</strong> senden Sie die Anfrage</li>
+</ol>
+<h4>🎉 Ergebnis</h4>
+<p>Ihr Beitrag liegt nun in Ennos Händen zur Validierung!</p>
+<hr>
+<h2>🚀 Zusammenfassung der Schritte</h2>
+<table>
+<thead>
+<tr>
+<th>Schritt</th>
+<th>Aktion</th>
+<th>Tool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>.md-Dateien vorbereiten</td>
+<td>Texteditor</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Fork + Konfiguration</td>
+<td>GitHub Web</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Dateien hinzufügen</td>
+<td>GitHub Desktop</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Pull Request</td>
+<td>GitHub Web</td>
+</tr>
+</tbody>
+</table>
+<h2>📞 Hilfe benötigt?</h2>
+<ul>
+<li>Auf Discord: https://discord.com/channels/509396702663278592/1404841577402077332</li>
+<li>GitHub-Dokumentation für Git-Details</li>
+</ul>
+</body></html>

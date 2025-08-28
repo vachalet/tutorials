@@ -1,0 +1,153 @@
+<html><head></head><body><h1>Quick Tutorial for Publishing Your "Tutorial"</h1>
+<h2>📋 Overview</h2>
+<p>This tutorial guides you to publish your game reports on GitHub Pages in 4 main steps:</p>
+<ol>
+<li><strong>Prepare</strong> your Markdown files</li>
+<li><strong>Create</strong> your GitHub fork</li>
+<li><strong>Add</strong> your files</li>
+<li><strong>Contribute</strong> to the main project</li>
+</ol>
+<hr>
+<h2>STEP 1: Prepare Markdown Files</h2>
+<h3>1.1 Create your .md files</h3>
+<ul>
+<li>Prepare your files in <code>.md</code> (Markdown) format</li>
+<li>Check online tutorials or use converters</li>
+<li><strong>Naming:</strong> Use names without spaces (use <code>-</code> or <code>_</code>)</li>
+<li><strong>Images:</strong> Avoid uppercase extensions</li>
+</ul>
+<h3>1.2 Add the mandatory header</h3>
+<p><strong>⚠️ IMPORTANT:</strong> Insert this block at the beginning of each file:</p>
+<pre><code class="language-yaml">---
+title: "Your_Race: Runde 1"
+date: 2023-10-15
+---
+</code></pre>
+<ul>
+<li>The <strong>date</strong> determines the display order on your page</li>
+<li>Use cr date</li>
+<li>For intro/conclusion: adjust the date for proper positioning</li>
+</ul>
+<h3>1.3 Formatting rules</h3>
+<ul>
+<li><strong>Line break:</strong> end with <code>space+space+return</code></li>
+<li><strong>Titles:</strong> use <code>#</code>, <code>##</code>, <code>###</code></li>
+<li><strong>Images:</strong> format <code>![alt](./image.png "title")</code></li>
+</ul>
+<p><strong>Useful resources:</strong></p>
+<ul>
+<li><a href="https://discord.com/channels/509396702663278592/1193551778952781846/1404064429024346177">Discord</a></li>
+<li><a href="https://eressea.github.io/tutorials/goblins/">Goblins Example</a></li>
+</ul>
+<hr>
+<h2>STEP 2: Create your GitHub fork</h2>
+<h3>2.1 Create a GitHub account</h3>
+<p>If not already done: https://github.com</p>
+<h3>2.2 Fork the repository</h3>
+<ol>
+<li><strong>Go to:</strong> https://github.com/eressea/tutorials</li>
+<li><strong>Click on:</strong> "Fork" button (top right)</li>
+<li><strong>Select:</strong> your personal account</li>
+<li><strong>Wait for:</strong> fork creation</li>
+</ol>
+<h3>2.3 Configure your fork</h3>
+<p><strong>General Configuration</strong></p>
+<p><img src="./e09dc9efc090cf113697cf7b111b9d86f1b29c20.png" alt="General" title="General" integrity="sha1-e09dc9efc090cf113697cf7b111b9d86f1b29c20"></p>
+<p><strong>Enable GitHub Pages</strong></p>
+<p><img src="./18ab6a2cce961c48b8e02a9588e6a47a3dcc9229.png" alt="GitHub Pages" title="GitHub Pages" integrity="sha1-18ab6a2cce961c48b8e02a9588e6a47a3dcc9229"></p>
+<p><strong>💡 Note:</strong> To synchronize later → "Sync fork" button</p>
+<p><strong>⚠️ Don't touch the gh-pages branch</strong> It serves to publish your pages.</p>
+<hr>
+<h2>STEP 3: Add your files</h2>
+<h3>3.1 Install GitHub Desktop</h3>
+<p><strong>Download:</strong> https://desktop.github.com/download/</p>
+<h3>3.2 First launch</h3>
+<ol>
+<li><strong>Authentication:</strong> via your browser</li>
+<li><strong>Clone:</strong> select your repository</li>
+<li><strong>Click:</strong> "Clone your_account/tutorials"</li>
+<li><strong>Default folder:</strong> <code>C:\Users\&lt;YourUserName&gt;\Documents\GitHub\tutorials</code></li>
+</ol>
+<h3>3.3 Organize your files</h3>
+<ul>
+<li><strong>Create:</strong> a <code>your_race</code> folder next to the <code>goblins</code> folder</li>
+<li><strong>Add:</strong> your <code>.md</code> files to this folder</li>
+</ul>
+<h3>3.4 Git Workflow</h3>
+<h4>See modifications</h4>
+<p><img src="./89bad55a102d6faf9f836fde7a4178a9e5195669.png" alt="Github Desktop 1" title="Github Desktop 1" integrity="sha1-89bad55a102d6faf9f836fde7a4178a9e5195669"></p>
+<h4>Commit (save)</h4>
+<ol>
+<li><strong>Select:</strong> files to commit</li>
+<li><strong>Write:</strong> short description of changes</li>
+<li><strong>Click:</strong> "Commit * files to main"</li>
+</ol>
+<h4>Push (send)</h4>
+<p><img src="./e0facfd95d2e8024878ee543df792c35c4d87017.png" alt="Push Request" title="Push Request" integrity="sha1-e0facfd95d2e8024878ee543df792c35c4d87017"></p>
+<p><strong>Click:</strong> "Push origin" to send to GitHub</p>
+<hr>
+<h2>STEP 4: Contribute to the project</h2>
+<h3>4.1 Verify your work</h3>
+<h4>✅ Test your pages</h4>
+<ol>
+<li><strong>Go to:</strong> your site (link in Settings → GitHub Pages)</li>
+<li><strong>Check:</strong> page display</li>
+<li><strong>If problem:</strong> on your PC: modify → commit → push</li>
+<li><strong>⏱️ Patience:</strong> update may take time</li>
+</ol>
+<h4>✅ Synchronize your fork</h4>
+<ul>
+<li><strong>Check:</strong> if your fork is up to date</li>
+<li><strong>If necessary:</strong> use "Sync fork"</li>
+</ul>
+<h3>4.2 Create a Pull Request</h3>
+<h4>When everything is ready:</h4>
+<p><img src="./dac41ffe0cf0a5321de0cfd581692b8cfbdc2e41.png" alt="Pull Request" title="Pull Request" integrity="sha1-dac41ffe0cf0a5321de0cfd581692b8cfbdc2e41"></p>
+<ol>
+<li><strong>Go to:</strong> "Pull Request"</li>
+<li><strong>Click:</strong> "New Pull Request"</li>
+<li><strong>Review:</strong> everything that will be proposed</li>
+<li><strong>Comment:</strong> explain your changes</li>
+<li><strong>Validate:</strong> send the request</li>
+</ol>
+<h4>🎉 Result</h4>
+<p>Your contribution is now in Enno's hands for validation!</p>
+<hr>
+<h2>🚀 Steps Summary</h2>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Action</th>
+<th>Tool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Prepare .md files</td>
+<td>Text editor</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Fork + config</td>
+<td>GitHub web</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Add files</td>
+<td>GitHub Desktop</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Pull Request</td>
+<td>GitHub web</td>
+</tr>
+</tbody>
+</table>
+<h2>📞 Need help?</h2>
+<ul>
+<li>On Discord: https://discord.com/channels/509396702663278592/1404841577402077332</li>
+<li>GitHub documentation for Git details</li>
+</ul>
+</body></html>
